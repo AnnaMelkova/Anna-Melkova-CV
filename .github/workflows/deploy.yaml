@@ -40,8 +40,8 @@ jobs:
         run: pnpm install
       - name: Build
         run: pnpm run build
-      - name: Build
-        run: pnpm run build
+      - name: Debug dist contents
+        run: ls -la dist
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
