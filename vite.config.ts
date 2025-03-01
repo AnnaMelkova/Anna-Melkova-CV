@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   // Use the base path for production builds
   // base: mode === 'development' ? '/' : '/Anna-Melkova-CV/',
-  base: mode === 'development' ? '/' : '/',
+  base: "/Anna-Melkova-CV/",
   server: {
     host: "::",
     port: 8080,
