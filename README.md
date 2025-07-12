@@ -75,7 +75,7 @@ STUCOM, Spain
 - Developed marketing strategies and improved customer retention.
 - Increased the new customer base by 1.5x, with a 50% retention rate.
 
-### Federal Company Komus, St. Petersburg | Head of Sales | Aug 2017 – Aug 2018
+### Federal Company Komus, St. Petersburg | Head of Sales | Aug 2016 – Aug 2018
 - Built the sales department from scratch and managed a team of 8 sales professionals.
 - Implemented customer acquisition methods and enhanced relationship management standards.
 - Promoted 75% of the team to VIP sales executive roles.
