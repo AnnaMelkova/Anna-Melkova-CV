@@ -5,8 +5,7 @@
 ✉️ **anna.melkova@gmail.com**  
 📍 **08027, Barcelona, Spain**  
 🔗 **www.linkedin.com/in/
-anna-melkova1986
-Nombre de la URL personalizada**
+anna-melkova1986**
 
 ---
 
