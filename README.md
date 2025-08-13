@@ -4,10 +4,9 @@
 📞 **+34 674503226**  
 ✉️ **anna.melkova@gmail.com**  
 📍 **08027, Barcelona, Spain**  
-🔗 **[linkedin.com/in/annamelkova](
-www.linkedin.com/in/
+🔗 **www.linkedin.com/in/
 anna-melkova1986
-)**
+Nombre de la URL personalizada**
 
 ---
 
