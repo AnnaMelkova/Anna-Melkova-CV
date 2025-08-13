@@ -5,7 +5,9 @@
 ✉️ **anna.melkova@gmail.com**  
 📍 **08027, Barcelona, Spain**  
 🔗 **[linkedin.com/in/annamelkova](
-anna-melkova1986)**
+www.linkedin.com/in/
+anna-melkova1986
+)**
 
 ---
 
