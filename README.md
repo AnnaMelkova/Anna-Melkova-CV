@@ -10,15 +10,6 @@
 
 ## Education
 
-**Master in Public Relations (2003–2008)**  
-South Ural State University, Russia
-
-**Professional Retraining: Spanish Language (2012–2014)**  
-South Ural State University, Russia
-
-**Spanish Language Course (2018–2020)**  
-Ole Language Spanish School, Barcelona
-
 **Certificate in E-learning for Teachers (2024)**  
 EDUCTRADE, Spain  
 *(50 hours, May–June 2024)*
@@ -30,25 +21,35 @@ Institució Cultural del CIC, Barcelona
 **Certificate in Teaching for Professional Training (2023)**  
 STUCOM, Spain
 
+**Spanish Language Course (2018–2020)**  
+Ole Language Spanish School, Barcelona
+
+**Professional Retraining: Spanish Language (2012–2014)**  
+South Ural State University, Russia
+
+**Master in Public Relations (2003–2008)**  
+South Ural State University, Russia
+
 ---
 
 ## Skills
 
-- Team Building  
-- People Management  
-- Project Management  
-- Conflict Resolution  
-- Client Engagement  
-- Coaching and Teaching  
+- Employee Onboarding  
+- Training Program Design  
+- LMS (Learning Management Systems)
+- Team Coaching 
+- Project Management
+- Client Onboarding  
+- Upselling & Cross-selling
 - Cross-Functional Collaboration
 
 ---
 
 ## Languages
 
-- Russian (Native)  
-- Spanish (Fluent)  
 - English (Intermediate)
+- Spanish (Fluent)
+- Russian (Native)
 
 ---
 
